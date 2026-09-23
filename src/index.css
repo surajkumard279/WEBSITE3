@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+@theme {
+  --color-maroon-950: #2b020c;
+  --color-maroon-900: #440416;
+  --color-maroon-800: #5C061E; /* Primary Maroon requested: HEX #5C061E, RGB(92, 6, 30) */
+  --color-maroon-700: #740a28;
+  --color-maroon-600: #8d0f33;
+  --color-maroon-500: #a71840;
+  --color-maroon-400: #c42c55;
+  --color-maroon-300: #de577b;
+  --color-maroon-200: #f198b1;
+  --color-maroon-100: #fbe2e9;
+  --color-maroon-50: #fdf5f7;
+}
+
+:root {
+  --brand-maroon: #5C061E;
+  --brand-maroon-dark: #440416;
+  --brand-maroon-light: #740a28;
+}
+
+/* Custom Maroon utilities for instant solid application */
+.bg-maroon {
+  background-color: #5C061E;
+}
+.bg-maroon-dark {
+  background-color: #440416;
+}
+.bg-maroon-light {
+  background-color: #740a28;
+}
+.text-maroon {
+  color: #5C061E;
+}
+.border-maroon {
+  border-color: #5C061E;
+}

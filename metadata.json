@@ -1,0 +1,6 @@
+{
+  "name": "AgileCorp Enterprise Learning & Certification Academy",
+  "description": "Premier corporate certification and agile leadership training institute offering accredited SAFe, Scrum Alliance, Scrum.org, ICAgile, and Kanban certifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
